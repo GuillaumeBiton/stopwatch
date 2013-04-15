@@ -13,7 +13,7 @@ via npm :
 
 In Browsers :
 
-	<script src="stopwtach.min.js"></script>
+	<script src="stopwatch.min.js"></script>
 
 In Node.js : 
 
