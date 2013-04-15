@@ -16,5 +16,10 @@
 		"uglify-js" : "latest"
 	},
 	"licences" : "MIT",
-	"main" : "stopwatch.js"
+	"main" : "stopwatch.js",
+	"ignore" : [
+		"Cakefile",
+		"package.json",
+		"stopwatch.coffee"
+	]
 }
